@@ -3,7 +3,7 @@
 ##
 
 - 📚 Studying Software Engineering at `Instituto Infnet`
-- 🔭 I’m currently working as a Java Intern at `GFT`
+- 🔭 I’m currently working as a Salesforce Developer at `GFT`
 
 ##
 
@@ -35,6 +35,5 @@
   <a href="https://www.linkedin.com/in/curtyrafaela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
    
-  ![Snake animation](https://github.com/breves-r/breves-r/blob/output/github-contribution-grid-snake.svg)
  
 </div>
