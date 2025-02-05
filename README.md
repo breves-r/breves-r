@@ -2,8 +2,8 @@
   
 ##
 
-- 📚 Studying Software Engineering at `Instituto Infnet`
 - 🔭 I’m currently working as a Salesforce Developer at `GFT`
+- 📚 Software Engineer graduated at `Instituto Infnet`
 
 ##
 
