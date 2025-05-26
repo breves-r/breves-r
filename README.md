@@ -2,7 +2,7 @@
   
 ##
 
-- 🔭 I’m currently working as a Salesforce Developer at `GFT`
+- 🔭 I’m currently working as a Salesforce Developer at `Nimber`
 - 📚 Software Engineer graduated at `Instituto Infnet`
 
 ##
